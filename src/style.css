@@ -62,11 +62,11 @@ form {
 }
 
 .submit-button {
-	margin-left: 10px;
+	margin-left: 15px;
 	background-color: #f6378f;
 	color: whitesmoke;
 	border: none;
-	width: 150px;
+	width: 170px;
 	border-radius: 50px;
 	padding: 14px 24px;
 	font-size: 18px;
